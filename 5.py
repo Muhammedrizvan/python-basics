@@ -4,7 +4,7 @@
 # this can be done with casting,
 
 
-x = str(3)
+x = str(7)
 y = int(3.5)
 z = float(3)
 
