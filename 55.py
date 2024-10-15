@@ -1,4 +1,4 @@
-#chenge a range of item values
+ #chenge a range of item values
 
 #change the value "banana" and "cherry" with the values
 #"blckcurrent" and "watermelon"?
