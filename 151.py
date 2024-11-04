@@ -1,5 +1,5 @@
 #get values
-
+from idlelib.editor import keynames
 
 #the values() method will return a list
 #of all the values in the dictionary .
