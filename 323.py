@@ -1,4 +1,9 @@
+# terminal->  pip install camelcase
+
+
 import camelcase
-c = camelcase.camelcase()
+c = camelcase.CamelCase()
+
 txt = "hello world"
 print(c.hump(txt))
+
